@@ -10,9 +10,9 @@
 
 
 /**
- * Returns the regexp that matches a GUID string representation
- * '{XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX}',
- * where X is hexadecimal digit (0,1,2...,9,A,a,B,b,C,c,D,d,F,f)
+   * Returns the regexp that matches a GUID string representation
+   * '{XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX}',
+   * where X is hexadecimal digit (0,1,2...,9,A,a,B,b,C,c,D,d,F,f)
  *
  * See more details: https://en.wikipedia.org/wiki/Globally_unique_identifier
  *
